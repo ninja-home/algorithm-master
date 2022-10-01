@@ -1,5 +1,9 @@
 import React from "react";
 import styled from "styled-components";
+import { NavBar } from "./components/NavBar";
+import { Footer } from "./components/Footer";
+import { Controller } from "./components/Controller";
+import { AlgoDisplay } from "./components/AlgoDisplay";
 
 const Container = styled.div`
   margin: 0 10px;
@@ -11,7 +15,10 @@ const Container = styled.div`
 export default function App() {
   return (
     <Container>
-      Hello world
+      <NavBar />
+      <Controller />
+      <AlgoDisplay />
+      <Footer />
     </Container>
   );
 }
