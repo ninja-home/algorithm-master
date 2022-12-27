@@ -13,7 +13,7 @@ const FooterDiv = styled.div`
 export function Footer() {
   return (
     <FooterDiv>
-      Made with ♥ by&nbsp;<a href="https://github.com/ninja-home">Sergio</a>
+      Made with ♥ by&nbsp;<a href="https://github.com/hello-sergio">Sergio</a>
     </FooterDiv>
   );
 }

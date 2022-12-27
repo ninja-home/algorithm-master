@@ -42,7 +42,7 @@ export function NavBar() {
       >
         <h3>Sorting Algorithms Visualizer</h3>
         <a
-          href="https://github.com/ninja-home/algorithm-master"
+          href="https://github.com/hello-sergio/algorithm-master"
           target="_blank"
         >
           <AiFillGithub style={{ fontSize: "1.5rem" }} />
@@ -51,7 +51,7 @@ export function NavBar() {
       <i style={{ textAlign: "center" }}>
         This is to visualize for sorting algorithm. Take a look at core
         algorithm here and please follow me on my{" "}
-        <a href="https://github.com/ninja-home" target="_blank">
+        <a href="https://github.com/hello-sergio" target="_blank">
           Github
         </a>{" "}
         if you think it's really helpful
